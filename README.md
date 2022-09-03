@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Made using CoinGeckoAPI
+
+
+Deployed on :
+=============
+
+#### https://cosmic-torrone-24b2ca.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
